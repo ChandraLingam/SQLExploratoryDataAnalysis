@@ -1,1 +1,1 @@
-# SQLExploratoryDataAnalysis
+# SQL Exploratory Data Analysis
