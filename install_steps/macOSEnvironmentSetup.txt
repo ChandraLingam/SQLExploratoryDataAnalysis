@@ -3,8 +3,8 @@
 1. Install VS Code (Editor)
 https://code.visualstudio.com/
 
-
 2. Install MySQL (Database)
+# Use homebrew for installation
 # Install home-brew
 https://brew.sh/
 
