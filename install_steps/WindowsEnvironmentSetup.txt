@@ -1,0 +1,14 @@
+--- Windows Environment Setup ---
+
+1. Install VS Code (Editor)
+# Install VS Code
+https://code.visualstudio.com/
+
+2. Install MySQL (Database)
+https://dev.mysql.com/downloads/mysql/
+
+3. Install DBeaver (SQL Query Tool)
+https://dbeaver.io/
+
+- Connect to Local Database Server
+- Create leetcode database

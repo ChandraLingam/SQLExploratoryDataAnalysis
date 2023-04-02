@@ -1,0 +1,39 @@
+--- macOS Environment Setup ---
+
+1. Install VS Code (Editor)
+https://code.visualstudio.com/
+
+
+2. Install MySQL (Database)
+# Install home-brew
+https://brew.sh/
+
+# Install MySQL   
+brew install mysql
+
+# Start MySQL
+brew services start mysql
+
+# Stop MySQL
+brew services stop mysql
+
+# Secure your database and set root password
+mysql_secure_installation
+
+# How To: Uninstall MySQL
+brew remove mysql
+brew cleanup
+
+# More detailed uninstall instructions
+https://gist.github.com/vitorbritto/0555879fe4414d18569d
+
+# How To: Uninstall Brew
+brew remove mysql
+brew cleanup
+
+3. Install DBeaver (SQL Query Tool)
+https://dbeaver.io/
+
+
+- Connect to Local Database Server
+- Create leetcode database
