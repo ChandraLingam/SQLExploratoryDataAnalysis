@@ -10,8 +10,8 @@ This work is licensed under a
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
 
 # SQL Exploratory Data Analysis 
-Video Course available on YouTube
-*SQL Fundamentals for Data Analysis: From Basics to Advanced Querying*.
+Video Course available on YouTube  
+*SQL Fundamentals for Data Analysis: From Basics to Advanced Querying*.  
 https://youtu.be/W8NwWvNoKs8
 
 
