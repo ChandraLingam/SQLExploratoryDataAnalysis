@@ -11,13 +11,18 @@ This work is licensed under a
 
 # SQL Exploratory Data Analysis 
 Video Course available on YouTube
+*SQL Fundamentals for Data Analysis: From Basics to Advanced Querying*.
+https://youtu.be/W8NwWvNoKs8
 
 
 ### What will you learn in this course?  
+Welcome to the course on SQL Fundamentals for Data Analysis: From Basics to Advanced Querying. 
 
-### Why Learn SQL?  
+This complete course is designed for anyone who works with data stored in relational databases. 
+
+If you're new to SQL, don't worry - we'll start from the very beginning. By the end of this course, you'll gain practical experience in solving a variety of SQL challenges. 
+
+By mastering these techniques, you can become a more confident and proficient data analyst!
 
 ### Author  
 Hello, I'm Chandra Lingam, and I'll be your instructor for this course. With over 100K students, I'm committed to staying current with the latest technologies and sharing my knowledge from the fundamentals up. I'm excited to have the opportunity to meet you and guide you through this course.
-
-### Contents of this repostiory
